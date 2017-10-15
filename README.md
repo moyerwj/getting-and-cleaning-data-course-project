@@ -19,7 +19,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 Good luck!
 
 The repository contains the following:
-A Codebood.md file explaining the variables, data and work performed
+A Codebook.md file explaining the variables, data and work performed
 A ReadMe.md file providing an overview of the analysis
 A TidyDataSet.txt file that contains the data set results
 A run_analysis.R file that contains the scripts used to create the TidyDataSet.txt file
